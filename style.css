@@ -1,0 +1,186 @@
+.tickets {
+    color: rgb(36, 190, 36) !important;
+}
+.tickets:hover{
+    color: rgba(113, 240, 109, 0.801) !important;
+}
+
+
+.ba1 {
+    background-image: url(./imagenes/ba1.jpg);
+    background-color: rgba(40, 40, 40, 0.76);
+    background-blend-mode: soft-light;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 85vh;
+}
+
+
+#h1 {
+    color: white;
+}
+
+.texto1 {
+    font: sans-serif;
+    color: rgba(255, 255, 255, 0.938);
+    width: 50%;
+    text-align: right;
+    padding-top: 14%;
+    padding-right: 10%;
+    margin-left: 47%;
+}
+.comprar-tickets:hover{
+    background-color: green !important;
+}
+
+.titulo2 {
+    padding-top: 10px;
+}
+
+.contenedor{
+    width: 90%;
+    padding-left: 13%;
+    text-align: left;
+}
+
+.cuadro1{
+    padding-right: 4%;
+}
+.cuadro2 {
+    padding-right: 4%;
+}
+.js {
+    font-size: 13px;
+    color: black;
+    background-color: rgba(214, 211, 15, 0.877);
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 2px;
+}
+.js:hover{
+    background-color: rgba(238, 235, 64, 0.877);
+    color: rgba(40, 40, 40, 0.76);
+}
+.react {
+    font-size: 13px;
+    color: white;
+    background-color: rgba(56, 145, 187, 0.829);
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 2px;
+}
+.react:hover{
+    background-color: rgba(89, 173, 212, 0.829);
+    color: seashell;
+}
+.negocios {
+    font-size: 13px;
+    color: white;
+    background-color: rgba(77, 80, 80, 0.658);
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 2px;
+}
+.negocios:hover{
+    background-color: rgba(133, 141, 141, 0.658);
+    color: seashell;
+}
+.startups {
+    font-size: 13px;
+    color: white;
+    background-color: rgba(199, 7, 33, 0.815);
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 2px;
+}
+.startups:hover{
+    background-color: rgba(221, 64, 85, 0.815);
+    color: rgba(255, 255, 255, 0.938);
+}
+.pantalla-dividida {
+    width: 100%;
+    padding-top: 40px;
+    display: flex;
+}
+.honolulu {
+    width: 50%;
+    height: 50%;
+}
+.texto-derecho {
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.753);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 15px;
+    margin-left: 2px;
+}
+.texto {
+    color: white;
+}
+.parrafo {
+    color: rgba(255, 255, 255, 0.747);
+    font-size: 15px;
+}
+.lead {
+    padding-top: 10px;
+    font-size: 15px;
+}
+.formulario{
+    width: 60%;
+    margin-left: 20%;
+}
+.form-control {
+    margin-top: 20px;
+}
+.ultimo-boton{
+    background-color: rgba(103, 187, 34, 0.774);
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+}
+.ultimo-boton:hover{
+    color: wheat;
+    background-color: rgba(47, 240, 47, 0.952);
+}
+.navegacion {
+    background-color: rgb(8, 70, 99);
+    text-align: center;
+    height: 4rem;
+}
+
+.lista{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+}
+.lista a {
+    color: wheat;
+    text-decoration: none;
+}
+
+.lista a:hover{
+    background-color: rgb(39, 106, 160);
+    color: ghostwhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
